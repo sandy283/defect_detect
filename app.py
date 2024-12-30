@@ -140,6 +140,6 @@ if st.sidebar.button("Check Defect"):
                 st.write(output)
                 st.markdown("---")
             with col2:
-                st.image(image, use_column_width=True)
+                st.image(image, use_container_width=True)
     else:
         st.warning("No images uploaded. Please upload images to check for defects.")

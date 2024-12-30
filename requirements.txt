@@ -1,0 +1,5 @@
+google-generativeai
+pybase64
+streamlit>=1.12.0
+pillow
+ultralytics
